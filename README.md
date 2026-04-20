@@ -1,4 +1,8 @@
-## Hi there 👋
+## My Github at a Glance
+
+<a href="https://github.com/greganderson/greganderson">
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greganderson&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
+</a>
 
 <!--
 **mars-schmutz/mars-schmutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
