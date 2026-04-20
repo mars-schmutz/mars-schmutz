@@ -1,7 +1,7 @@
 ## My Github at a Glance
 
 <a href="https://github.com/greganderson/greganderson">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greganderson&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mars-schmutz&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
 
 <!--
